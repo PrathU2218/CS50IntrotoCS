@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Bubble sort is slowest in case of reversed distribution
+
+sort2 uses: Merge Sort
+
+How do you know?: Sort2 method is really fast as compared to other 2 sort methods in case of random distribution
+
+sort3 uses: Selection Sort
+
+How do you know?: The only left method is selection sort which is faster than bubble sort in case of reversed distribution
